@@ -41,7 +41,7 @@ Configure the web browser to allow webrtc
 ## Starting the call
 ```
 1. Go to React App, eg. by going to http://192.168.90.92:3000. Open this page on both devices between whom call is to be placed.
-2. Enter the other devices ID on the input field. (The input field is written in the bottom page).
+2. Enter the other devices ID on the input field. (ID is written in the bottom page).
 3. Press the name with which you want to start call (4 coloured buttons).
 4. The other device needs to accept the call (Notification is shown on the bottom of page).
 ```
